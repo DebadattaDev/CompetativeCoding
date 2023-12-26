@@ -53,3 +53,6 @@ public class GenerateAllBinStringOfNBits {
 
     }
 }
+
+// n=4
+// 0000 0001 0010 0100 0101 1000 1001 1010
