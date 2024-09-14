@@ -15,7 +15,6 @@ public class GenerateAllSubsequence {
         }
 
         generateSubsequence(str,f+str.charAt(i),i+1);
-//        System.out.println(f+" "+i);
         generateSubsequence(str,f,i+1);
     }
 }
